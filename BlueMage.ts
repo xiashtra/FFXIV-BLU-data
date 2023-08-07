@@ -1520,6 +1520,7 @@ export const BLU_STATUSES = {
 		duration: 15,
 		stacksApplied: 1,
 		maxStacks: 6,
+		notes: "Not affected by Basic Instinct."
 	},
 	BLU_PHYSICAL_VULN_DOWN: {
 		id: 3638,
